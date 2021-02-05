@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me 👋
+
+Thanks for dropping by. This is the place where I'm most pensive!
 
 <!--
 **joesan/joesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
