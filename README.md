@@ -9,3 +9,5 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/3102968/sparkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sparkr" height="30" width="40" /></a>
 </p>
+
+Talk with me? Why not [Schedule a meeting](https://calendly.com/joesandech)
