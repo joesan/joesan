@@ -5,4 +5,6 @@
 
 - 📝 Please visit my Personal Website [https://www.bigelectrons.com](https://www.bigelectrons.com)
 
-Let's talk! Why not [Schedule a meeting](https://calendly.com/joesandech)
+- Have trust in Functional Programming!
+
+- Let's talk! Why not [Schedule a meeting](https://calendly.com/joesandech)
