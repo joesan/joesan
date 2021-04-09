@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joesan</h1>
 <h3 align="center">Welcome to the place where I'm most pensive!</h3>
 
-:heavy_check_mark: I’m currently working on the [Navo](https://navo-org.github.io/navo-docs/) Project
+:heavy_check_mark: I’m currently working on the [Navo](https://www.bigelectrons.com/navo/) Project
 
 :heavy_check_mark: Please visit my Personal Website [https://www.bigelectrons.com](https://www.bigelectrons.com)
 
