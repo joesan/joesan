@@ -8,3 +8,5 @@
 :heavy_check_mark: Have trust in [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)!
 
 :heavy_check_mark: Let's talk! Why not [Schedule a meeting](https://calendly.com/joesandech)
+
+If you find some of my content interesting or helpful, please consider [donating me a coffee](https://ko-fi.com/joesan)
