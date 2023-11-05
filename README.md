@@ -10,3 +10,5 @@
 :heavy_check_mark: Let's talk! Why not [Schedule a meeting](https://calendly.com/joesandech)
 
 If you find some of my content interesting or helpful, please do consider [donating me a coffee](https://ko-fi.com/joesan)
+
+![](https://komarev.com/ghpvc/?username=joesan&color=green)
